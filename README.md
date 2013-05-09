@@ -16,14 +16,13 @@ I will add some features while learning python.
 
 ###Usage  
 1. put the markdon to the `post` folder, make sure the Markdown starts with:  
-
-	---
-	title: "title"
-	date: 2013-05-09 17:16
-	---
+		
+		---  
+		title: "title"  
+		date: 2013-05-09 17:16  
+		---  
 
 2. nohup python blog.py &
-
 
 ###ToDo
 1. not thought yet
