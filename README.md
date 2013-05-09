@@ -25,6 +25,6 @@ I will add some features while learning python.
 2. nohup python blog.py &
 
 ###ToDo
-1. not thought yet
-2. :)
+1. add an online markdown editor
+2. make one can post online
 
